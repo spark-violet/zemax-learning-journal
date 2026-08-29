@@ -100,10 +100,10 @@ The Entrance Pupil Diameter was then reduced from 10 mm to 4 mm (System Explorer
 
 Ratio of RMS spot radius, wide aperture to stopped-down aperture: 9.032 µm / 0.575 µm ≈ **15.7×**, compared to the theoretical cube-law prediction of (10/4)³ ≈ **15.6×** — a close match.
 
-![Spot Diagram — 10 mm EPD, RMS = 9.032 µm](images/spot-10mm.png)
+![Spot Diagram — 10 mm EPD, RMS = 9.032 µm](images/spot_10mm.png)
 *Figure 2 — Lens Data, 3D Layout, and Spot Diagram at 10 mm EPD (F/# ≈ 9).*
 
-![Spot Diagram — 4 mm EPD, RMS = 0.575 µm](images/spot-4mm.png)
+![Spot Diagram — 4 mm EPD, RMS = 0.575 µm](images/spot_4mm.png)
 *Figure 3 — Lens Data, 3D Layout, and Spot Diagram at 4 mm EPD (F/# ≈ 22.5).*
 
 ---
